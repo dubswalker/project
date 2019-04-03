@@ -1,2 +1,4 @@
 # Project Proposal
-## Group members
+Create a Compiler with GO-Language
+## Group member
+Christian Walker
